@@ -1,0 +1,10 @@
+﻿[
+  {
+    "Name": "Jungle Bash trophy",
+    "Id": 12345678,
+    "Address": "0x5a6f8",
+    "CheckValue": 0,
+    "CompareType": "GreaterThan",
+    "CheckType": "Byte"
+  }
+]
